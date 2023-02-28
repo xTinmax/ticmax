@@ -1,0 +1,79 @@
+
+
+
+#exp{ display: none;
+
+}
+ 
+body{
+    background-color: black;
+    display: flex
+    ;
+    
+}
+div{
+    min-width: 350px;
+    background-color: white;
+    border:  5px solid rgb(150, 85, 150);
+    padding: 0px;
+    width: 30%;
+    margin: 0 auto;
+
+    
+    
+}
+h1{ text-align: center;
+    padding: 5px;
+    margin-left: 40%;
+    margin-bottom: 90px;
+
+
+}
+
+fieldset{
+    margin-bottom: 12px;
+    background-color: rgb(132, 190, 190);
+    
+    
+}
+legend{
+    background-color: rgb(155, 104, 165);
+    padding:  0px;
+    font-weight: bold;
+}
+img{ 
+    margin-bottom: 0px;
+
+    margin-right: 0px;
+    padding: 0px;
+    float: left;
+    
+}
+span{
+    font-weight: bold;
+
+}
+.boton{
+    
+  border: none;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px 5px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(155, 104, 165);
+  }
+  
+.button1:hover {
+    background-color: rgb(132, 190, 190);
+    color: black
+ }
